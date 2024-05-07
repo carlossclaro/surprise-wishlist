@@ -1,6 +1,7 @@
 # surprise-wishlist
 
-wishlist-app/
+
+#wishlist-app/
 │
 ├── client/                     // Frontend (React)
 │   ├── public/
